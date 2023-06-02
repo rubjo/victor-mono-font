@@ -88997,22 +88997,12 @@ width = 600;
 );
 instances = (
 {
-interpolationWeight = 30;
+interpolationWeight = 50;
 instanceInterpolations = {
-"291433DC-531A-45CC-B814-57D397372F12" = -0.4;
-"7C079D0C-96CD-4BD8-8800-0621C7635A78" = 1.4;
+"7C079D0C-96CD-4BD8-8800-0621C7635A78" = 1;
 };
 name = Thin;
 weightClass = Thin;
-},
-{
-interpolationWeight = 42;
-instanceInterpolations = {
-"291433DC-531A-45CC-B814-57D397372F12" = -0.16;
-"7C079D0C-96CD-4BD8-8800-0621C7635A78" = 1.16;
-};
-name = ExtraLight;
-weightClass = ExtraLight;
 },
 {
 interpolationWeight = 55;
@@ -89020,38 +89010,47 @@ instanceInterpolations = {
 "291433DC-531A-45CC-B814-57D397372F12" = 0.1;
 "7C079D0C-96CD-4BD8-8800-0621C7635A78" = 0.9;
 };
+name = ExtraLight;
+weightClass = ExtraLight;
+},
+{
+interpolationWeight = 65;
+instanceInterpolations = {
+"291433DC-531A-45CC-B814-57D397372F12" = 0.3;
+"7C079D0C-96CD-4BD8-8800-0621C7635A78" = 0.7;
+};
 name = Light;
 weightClass = Light;
 },
 {
-interpolationWeight = 69;
+interpolationWeight = 75;
 instanceInterpolations = {
-"291433DC-531A-45CC-B814-57D397372F12" = 0.38;
-"7C079D0C-96CD-4BD8-8800-0621C7635A78" = 0.62;
+"291433DC-531A-45CC-B814-57D397372F12" = 0.5;
+"7C079D0C-96CD-4BD8-8800-0621C7635A78" = 0.5;
 };
 name = Regular;
 },
 {
-interpolationWeight = 84;
+interpolationWeight = 85;
 instanceInterpolations = {
-"291433DC-531A-45CC-B814-57D397372F12" = 0.68;
-"7C079D0C-96CD-4BD8-8800-0621C7635A78" = 0.32;
+"291433DC-531A-45CC-B814-57D397372F12" = 0.7;
+"7C079D0C-96CD-4BD8-8800-0621C7635A78" = 0.3;
 };
 name = Medium;
 weightClass = Medium;
 },
 {
+interpolationWeight = 92;
 instanceInterpolations = {
-"291433DC-531A-45CC-B814-57D397372F12" = 1;
+"291433DC-531A-45CC-B814-57D397372F12" = 0.84;
+"7C079D0C-96CD-4BD8-8800-0621C7635A78" = 0.16;
 };
 name = SemiBold;
 weightClass = SemiBold;
 },
 {
-interpolationWeight = 115;
 instanceInterpolations = {
-"291433DC-531A-45CC-B814-57D397372F12" = 1.3;
-"7C079D0C-96CD-4BD8-8800-0621C7635A78" = -0.3;
+"291433DC-531A-45CC-B814-57D397372F12" = 1;
 };
 isBold = 1;
 name = Bold;
