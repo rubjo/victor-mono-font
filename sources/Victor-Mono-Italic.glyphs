@@ -102020,10 +102020,10 @@ name = "Thin Italic";
 weightClass = Thin;
 },
 {
-interpolationWeight = 42;
+interpolationWeight = 40;
 instanceInterpolations = {
-"291433DC-531A-45CC-B814-57D397372F12" = -0.16;
-"7C079D0C-96CD-4BD8-8800-0621C7635A78" = 1.16;
+"291433DC-531A-45CC-B814-57D397372F12" = -0.2;
+"7C079D0C-96CD-4BD8-8800-0621C7635A78" = 1.2;
 };
 isItalic = 1;
 linkStyle = ExtraLight;
@@ -102031,10 +102031,9 @@ name = "ExtraLight Italic";
 weightClass = ExtraLight;
 },
 {
-interpolationWeight = 55;
+interpolationWeight = 50;
 instanceInterpolations = {
-"291433DC-531A-45CC-B814-57D397372F12" = 0.1;
-"7C079D0C-96CD-4BD8-8800-0621C7635A78" = 0.9;
+"7C079D0C-96CD-4BD8-8800-0621C7635A78" = 1;
 };
 isItalic = 1;
 linkStyle = Light;
