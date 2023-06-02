@@ -16,6 +16,15 @@ value = 1;
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
 }
 );
 date = "2023-04-17 11:34:47 +0000";
