@@ -50,6 +50,10 @@ value = (
 0,
 0
 );
+},
+{
+name = license;
+value = OFL;
 }
 );
 date = "2023-04-17 11:32:28 +0000";
