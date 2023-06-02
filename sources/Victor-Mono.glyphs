@@ -53,7 +53,7 @@ value = (
 },
 {
 name = license;
-value = OFL;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 }
 );
 date = "2023-04-17 11:32:28 +0000";
