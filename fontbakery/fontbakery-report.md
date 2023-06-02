@@ -2,13 +2,7 @@
 
 Fontbakery version: 0.8.13
 
-<details><summary><b>[14] VictorMono-ExtraLightItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
-
-
-* 🔥 **FAIL** A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry. Currently accepted licenses are Apache: 'https://www.apache.org/licenses/LICENSE-2.0' or Open Font License: 'https://scripts.sil.org/OFL'
-For a small set of legacy families the Ubuntu Font License 'https://www.ubuntu.com/legal/terms-and-policies/font-licence' may be acceptable as well.
-When in doubt, please choose OFL for new font projects. [code: no-license-found]
-</div></details><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+<details><summary><b>[13] VictorMono-ExtraLightItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
 
 
 * 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: į̀ į́ į̂ į̃ į̄ į̌ і́ ị̀ ị́ ị̂ ị̃ ị̄
@@ -745,13 +739,7 @@ The following glyphs do not have the recommended number of contours:
 	* ydieresis (U+00FF): B<<403.5,66.5>-<409.0,87.0>-<412.0,101.0>>/B<<412.0,101.0>-<403.0,79.0>-<377.5,67.5>> = 10.15426658020023 
 
 	* ygrave (U+1EF3): B<<403.5,66.5>-<409.0,87.0>-<412.0,101.0>>/B<<412.0,101.0>-<403.0,79.0>-<377.5,67.5>> = 10.15426658020023 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[13] VictorMono-MediumItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
-
-
-* 🔥 **FAIL** A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry. Currently accepted licenses are Apache: 'https://www.apache.org/licenses/LICENSE-2.0' or Open Font License: 'https://scripts.sil.org/OFL'
-For a small set of legacy families the Ubuntu Font License 'https://www.ubuntu.com/legal/terms-and-policies/font-licence' may be acceptable as well.
-When in doubt, please choose OFL for new font projects. [code: no-license-found]
-</div></details><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] VictorMono-MediumItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
 
 
 * 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: į̀ į́ į̂ į̃ į̄ į̌ і́ ị̀ ị́ ị̂ ị̃ ị̄
@@ -1427,13 +1415,7 @@ The following glyphs do not have the recommended number of contours:
 	* uni1EB5 (U+1EB5): B<<348.0,62.5>-<348.0,69.0>-<350.0,71.0>>/B<<350.0,71.0>-<320.0,32.0>-<280.0,9.0>> = 7.431407971172489 
 
 	* uni1EB7 (U+1EB7): B<<348.0,62.5>-<348.0,69.0>-<350.0,71.0>>/B<<350.0,71.0>-<320.0,32.0>-<280.0,9.0>> = 7.431407971172489 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[13] VictorMono-LightItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
-
-
-* 🔥 **FAIL** A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry. Currently accepted licenses are Apache: 'https://www.apache.org/licenses/LICENSE-2.0' or Open Font License: 'https://scripts.sil.org/OFL'
-For a small set of legacy families the Ubuntu Font License 'https://www.ubuntu.com/legal/terms-and-policies/font-licence' may be acceptable as well.
-When in doubt, please choose OFL for new font projects. [code: no-license-found]
-</div></details><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] VictorMono-LightItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
 
 
 * 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: į̀ į́ į̂ į̃ į̄ į̌ і́ ị̀ ị́ ị̂ ị̃ ị̄
@@ -2171,13 +2153,7 @@ The following glyphs do not have the recommended number of contours:
 	* uni1EB5 (U+1EB5): B<<356.5,73.5>-<358.0,86.0>-<361.0,93.0>>/B<<361.0,93.0>-<332.0,44.0>-<288.5,15.0>> = 7.420014895261209 
 
 	* uni1EB7 (U+1EB7): B<<356.5,73.5>-<358.0,86.0>-<361.0,93.0>>/B<<361.0,93.0>-<332.0,44.0>-<288.5,15.0>> = 7.420014895261209 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[13] VictorMono-SemiBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
-
-
-* 🔥 **FAIL** A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry. Currently accepted licenses are Apache: 'https://www.apache.org/licenses/LICENSE-2.0' or Open Font License: 'https://scripts.sil.org/OFL'
-For a small set of legacy families the Ubuntu Font License 'https://www.ubuntu.com/legal/terms-and-policies/font-licence' may be acceptable as well.
-When in doubt, please choose OFL for new font projects. [code: no-license-found]
-</div></details><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] VictorMono-SemiBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
 
 
 * 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: į̀ į́ į̂ į̃ į̄ į̌ і́ ị̀ ị́ ị̂ ị̃ ị̄
@@ -2956,13 +2932,7 @@ The following glyphs do not have the recommended number of contours:
 	* uring (U+016F): L<<368.0,91.0>--<374.0,103.0>>/B<<374.0,103.0>-<331.0,46.0>-<287.5,16.0>> = 10.465338428600635 
 
 	* utilde (U+0169): L<<368.0,91.0>--<374.0,103.0>>/B<<374.0,103.0>-<331.0,46.0>-<287.5,16.0>> = 10.465338428600635 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[13] VictorMono-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
-
-
-* 🔥 **FAIL** A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry. Currently accepted licenses are Apache: 'https://www.apache.org/licenses/LICENSE-2.0' or Open Font License: 'https://scripts.sil.org/OFL'
-For a small set of legacy families the Ubuntu Font License 'https://www.ubuntu.com/legal/terms-and-policies/font-licence' may be acceptable as well.
-When in doubt, please choose OFL for new font projects. [code: no-license-found]
-</div></details><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] VictorMono-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
 
 
 * 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: į̀ į́ į̂ į̃ į̄ į̌ і́ ị̀ ị́ ị̂ ị̃ ị̄
@@ -3617,13 +3587,7 @@ The following glyphs do not have the recommended number of contours:
 	* uni04F9 (U+04F9): B<<-4.5,114.0>-<-20.0,175.0>-<-4.0,255.0>>/B<<-4.0,255.0>-<-4.0,254.0>-<-1.0,268.0>> = 11.309932474020195 
 
 	* uni0513 (U+0513): B<<430.0,117.0>-<434.0,89.0>-<434.0,84.0>>/B<<434.0,84.0>-<435.0,88.0>-<441.5,100.5>> = 14.036243467926484 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[15] VictorMono-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
-
-
-* 🔥 **FAIL** A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry. Currently accepted licenses are Apache: 'https://www.apache.org/licenses/LICENSE-2.0' or Open Font License: 'https://scripts.sil.org/OFL'
-For a small set of legacy families the Ubuntu Font License 'https://www.ubuntu.com/legal/terms-and-policies/font-licence' may be acceptable as well.
-When in doubt, please choose OFL for new font projects. [code: no-license-found]
-</div></details><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[14] VictorMono-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
 
 
 * 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: į̀ į́ į̂ į̃ į̄ į̌ і́ ị̀ ị́ ị̂ ị̃ ị̄
@@ -4240,13 +4204,7 @@ The following glyphs do not have the recommended number of contours:
 	* uni21D9 (U+21D9): L<<27.0,117.0>--<28.0,447.0>> 
 
 	* uni21D9 (U+21D9): L<<356.0,118.0>--<27.0,117.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[13] VictorMono-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
-
-
-* 🔥 **FAIL** A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry. Currently accepted licenses are Apache: 'https://www.apache.org/licenses/LICENSE-2.0' or Open Font License: 'https://scripts.sil.org/OFL'
-For a small set of legacy families the Ubuntu Font License 'https://www.ubuntu.com/legal/terms-and-policies/font-licence' may be acceptable as well.
-When in doubt, please choose OFL for new font projects. [code: no-license-found]
-</div></details><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] VictorMono-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
 
 
 * 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: į̀ į́ į̂ į̃ į̄ į̌ і́ ị̀ ị́ ị̂ ị̃ ị̄
@@ -4982,13 +4940,7 @@ The following glyphs do not have the recommended number of contours:
 	* uni1EB5 (U+1EB5): B<<351.5,67.5>-<352.0,77.0>-<355.0,82.0>>/B<<355.0,82.0>-<326.0,38.0>-<284.0,12.0>> = 2.4247570440379063 
 
 	* uni1EB7 (U+1EB7): B<<351.5,67.5>-<352.0,77.0>-<355.0,82.0>>/B<<355.0,82.0>-<326.0,38.0>-<284.0,12.0>> = 2.4247570440379063 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[13] VictorMono-ThinItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
-
-
-* 🔥 **FAIL** A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry. Currently accepted licenses are Apache: 'https://www.apache.org/licenses/LICENSE-2.0' or Open Font License: 'https://scripts.sil.org/OFL'
-For a small set of legacy families the Ubuntu Font License 'https://www.ubuntu.com/legal/terms-and-policies/font-licence' may be acceptable as well.
-When in doubt, please choose OFL for new font projects. [code: no-license-found]
-</div></details><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] VictorMono-ThinItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
 
 
 * 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: į̀ į́ į̂ į̃ į̄ į̌ і́ ị̀ ị́ ị̂ ị̃ ị̄
@@ -5756,13 +5708,7 @@ The following glyphs do not have the recommended number of contours:
 	* ydieresis (U+00FF): B<<408.5,68.5>-<415.0,92.0>-<417.0,106.0>>/B<<417.0,106.0>-<410.0,83.0>-<383.0,69.5>> = 8.797410709991048 
 
 	* ygrave (U+1EF3): B<<408.5,68.5>-<415.0,92.0>-<417.0,106.0>>/B<<417.0,106.0>-<410.0,83.0>-<383.0,69.5>> = 8.797410709991048 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[15] VictorMono-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
-
-
-* 🔥 **FAIL** A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry. Currently accepted licenses are Apache: 'https://www.apache.org/licenses/LICENSE-2.0' or Open Font License: 'https://scripts.sil.org/OFL'
-For a small set of legacy families the Ubuntu Font License 'https://www.ubuntu.com/legal/terms-and-policies/font-licence' may be acceptable as well.
-When in doubt, please choose OFL for new font projects. [code: no-license-found]
-</div></details><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[14] VictorMono-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
 
 
 * 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: į̀ į́ į̂ į̃ į̄ į̌ і́ ị̀ ị́ ị̂ ị̃ ị̄
@@ -6383,13 +6329,7 @@ The following glyphs do not have the recommended number of contours:
 	* uni21D9 (U+21D9): L<<27.0,117.0>--<28.0,442.0>> 
 
 	* uni21D9 (U+21D9): L<<352.0,118.0>--<27.0,117.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[15] VictorMono-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
-
-
-* 🔥 **FAIL** A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry. Currently accepted licenses are Apache: 'https://www.apache.org/licenses/LICENSE-2.0' or Open Font License: 'https://scripts.sil.org/OFL'
-For a small set of legacy families the Ubuntu Font License 'https://www.ubuntu.com/legal/terms-and-policies/font-licence' may be acceptable as well.
-When in doubt, please choose OFL for new font projects. [code: no-license-found]
-</div></details><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[14] VictorMono-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
 
 
 * 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: į̀ į́ į̂ į̃ į̄ į̌ і́ ị̀ ị́ ị̂ ị̃ ị̄
@@ -7000,13 +6940,7 @@ The following glyphs do not have the recommended number of contours:
 	* uni21D9 (U+21D9): L<<27.0,117.0>--<28.0,434.0>> 
 
 	* uni21D9 (U+21D9): L<<343.0,118.0>--<27.0,117.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[15] VictorMono-ExtraLight.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
-
-
-* 🔥 **FAIL** A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry. Currently accepted licenses are Apache: 'https://www.apache.org/licenses/LICENSE-2.0' or Open Font License: 'https://scripts.sil.org/OFL'
-For a small set of legacy families the Ubuntu Font License 'https://www.ubuntu.com/legal/terms-and-policies/font-licence' may be acceptable as well.
-When in doubt, please choose OFL for new font projects. [code: no-license-found]
-</div></details><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[14] VictorMono-ExtraLight.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
 
 
 * 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: į̀ į́ į̂ į̃ į̄ į̌ і́ ị̀ ị́ ị̂ ị̃ ị̄
@@ -7462,13 +7396,7 @@ The following glyphs do not have the recommended number of contours:
 	* uni21D9 (U+21D9): L<<27.0,117.0>--<28.0,438.0>> 
 
 	* uni21D9 (U+21D9): L<<347.0,118.0>--<27.0,117.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[12] VictorMono-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
-
-
-* 🔥 **FAIL** A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry. Currently accepted licenses are Apache: 'https://www.apache.org/licenses/LICENSE-2.0' or Open Font License: 'https://scripts.sil.org/OFL'
-For a small set of legacy families the Ubuntu Font License 'https://www.ubuntu.com/legal/terms-and-policies/font-licence' may be acceptable as well.
-When in doubt, please choose OFL for new font projects. [code: no-license-found]
-</div></details><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] VictorMono-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
 
 
 * 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: į̀ į́ į̂ į̃ į̄ į̌ і́ ị̀ ị́ ị̂ ị̃ ị̄
@@ -7807,13 +7735,7 @@ The following glyphs do not have the recommended number of contours:
 	* uniE0A1 (U+E0A1): L<<305.0,12.0>--<307.0,-34.0>> -> L<<307.0,-34.0>--<307.0,-151.0>> 
 
 	* uniE0A1 (U+E0A1): L<<372.0,162.0>--<369.0,226.0>> -> L<<369.0,226.0>--<369.0,326.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[15] VictorMono-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
-
-
-* 🔥 **FAIL** A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry. Currently accepted licenses are Apache: 'https://www.apache.org/licenses/LICENSE-2.0' or Open Font License: 'https://scripts.sil.org/OFL'
-For a small set of legacy families the Ubuntu Font License 'https://www.ubuntu.com/legal/terms-and-policies/font-licence' may be acceptable as well.
-When in doubt, please choose OFL for new font projects. [code: no-license-found]
-</div></details><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[14] VictorMono-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
 
 
 * 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: į̀ į́ į̂ į̃ į̄ į̌ і́ ị̀ ị́ ị̂ ị̃ ị̄
@@ -8422,13 +8344,7 @@ The following glyphs do not have the recommended number of contours:
 	* uni21D8 (U+21D8): L<<573.0,117.0>--<239.0,118.0>> 
 
 	* uni21D9 (U+21D9): L<<361.0,118.0>--<27.0,117.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[15] VictorMono-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
-
-
-* 🔥 **FAIL** A known license URL must be provided in the NameID 14 (LICENSE INFO URL) entry. Currently accepted licenses are Apache: 'https://www.apache.org/licenses/LICENSE-2.0' or Open Font License: 'https://scripts.sil.org/OFL'
-For a small set of legacy families the Ubuntu Font License 'https://www.ubuntu.com/legal/terms-and-policies/font-licence' may be acceptable as well.
-When in doubt, please choose OFL for new font projects. [code: no-license-found]
-</div></details><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[14] VictorMono-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
 
 
 * 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: į̀ į́ į̂ į̃ į̄ į̌ і́ ị̀ ị́ ị̂ ị̃ ị̄
@@ -9041,7 +8957,7 @@ The following glyphs do not have the recommended number of contours:
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 42 | 152 | 1668 | 85 | 1276 | 0 |
+| 0 | 28 | 152 | 1668 | 85 | 1290 | 0 |
 | 0% | 1% | 5% | 52% | 3% | 40% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
