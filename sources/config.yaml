@@ -1,7 +1,7 @@
 sources:
-  - Rubik.glyphs
-  - Rubik-Italic.glyphs
+  - Victor Mono.glyphs
+  - Victor Mono Italic.glyphs
 axisOrder:
   - wght
   - ital
-familyName: Rubik
+familyName: Victor Mono
