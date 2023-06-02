@@ -12,7 +12,7 @@ code = "a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove a
 name = Lowercase;
 }
 );
-copyright = "Copyright 2023 Rune B (https://github.com/rubjo/victor-mono-font)";
+copyright = "Copyright 2023 The Victor Mono Project Authors (https://github.com/rubjo/victor-mono-font)";
 customParameters = (
 {
 name = isFixedPitch;
