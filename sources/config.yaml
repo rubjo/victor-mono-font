@@ -1,7 +1,7 @@
 sources:
-  - Victor-Mono.glyphs
-  - Victor-Mono-Italic.glyphs
+  - VictorMono.glyphs
+  - VictorMono-Italic.glyphs
 axisOrder:
   - wght
   - ital
-familyName: VictorMono
+familyName: Victor Mono
