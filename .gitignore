@@ -8,6 +8,8 @@ package-lock.json
 package.json
 master_ufo
 instance_ufo
+build.ninja
+.ninja_log
 
 # OS generated files #
 ######################

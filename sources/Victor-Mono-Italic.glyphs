@@ -55,7 +55,7 @@ name = licenseURL;
 value = "https://scripts.sil.org/OFL";
 }
 );
-date = "2023-06-15 05:14:40 +0000";
+date = "2023-06-15 06:22:18 +0000";
 designer = "Rune Bjørnerås";
 designerURL = "rubjo.github.io/victor-mono";
 familyName = "Victor Mono";
@@ -11612,7 +11612,7 @@ unicode = 1EBD;
 {
 color = 4;
 glyphname = f;
-lastChange = "2021-10-18 17:21:55 +0000";
+lastChange = "2023-06-15 06:18:36 +0000";
 layers = (
 {
 anchors = (
@@ -11734,7 +11734,7 @@ nodes = (
 );
 }
 );
-width = 602;
+width = 600;
 },
 {
 anchors = (
@@ -26308,7 +26308,7 @@ rightMetricsKey = l;
 color = 4;
 export = 0;
 glyphname = fi;
-lastChange = "2021-10-18 17:21:55 +0000";
+lastChange = "2023-06-15 06:18:41 +0000";
 layers = (
 {
 components = (
@@ -26317,11 +26317,11 @@ name = f;
 },
 {
 name = i;
-transform = "{1, 0, 0, 1, 602, 0}";
+transform = "{1, 0, 0, 1, 600, 0}";
 }
 );
 layerId = "7C079D0C-96CD-4BD8-8800-0621C7635A78";
-width = 1202;
+width = 1200;
 },
 {
 components = (
@@ -26345,7 +26345,7 @@ unicode = FB01;
 color = 4;
 export = 0;
 glyphname = fl;
-lastChange = "2021-10-18 17:21:55 +0000";
+lastChange = "2023-06-15 06:18:41 +0000";
 layers = (
 {
 components = (
@@ -26354,11 +26354,11 @@ name = f;
 },
 {
 name = l;
-transform = "{1, 0, 0, 1, 602, 0}";
+transform = "{1, 0, 0, 1, 600, 0}";
 }
 );
 layerId = "7C079D0C-96CD-4BD8-8800-0621C7635A78";
-width = 1202;
+width = 1200;
 },
 {
 components = (
@@ -102578,5 +102578,5 @@ HV = "50";
 };
 };
 versionMajor = 1;
-versionMinor = 550;
+versionMinor = 560;
 }
