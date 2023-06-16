@@ -17772,9 +17772,15 @@ unicode = 017C;
 {
 color = 4;
 glyphname = idotbelow.dotless;
-lastChange = "2023-06-02 11:22:34 +0000";
+lastChange = "2023-06-16 10:10:12 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{305, 618}";
+}
+);
 components = (
 {
 name = idotless;
@@ -17788,6 +17794,12 @@ layerId = "7C079D0C-96CD-4BD8-8800-0621C7635A78";
 width = 600;
 },
 {
+anchors = (
+{
+name = top;
+position = "{305, 618}";
+}
+);
 components = (
 {
 name = idotless;
@@ -17805,9 +17817,15 @@ width = 600;
 {
 color = 4;
 glyphname = iogonek.dotless;
-lastChange = "2023-06-02 11:22:52 +0000";
+lastChange = "2023-06-16 10:10:32 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{305, 618}";
+}
+);
 components = (
 {
 name = idotless;
@@ -17821,6 +17839,12 @@ layerId = "7C079D0C-96CD-4BD8-8800-0621C7635A78";
 width = 600;
 },
 {
+anchors = (
+{
+name = top;
+position = "{305, 618}";
+}
+);
 components = (
 {
 name = idotless;
