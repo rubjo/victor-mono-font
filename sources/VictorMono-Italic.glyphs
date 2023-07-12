@@ -101158,7 +101158,7 @@ unicode = E0A2;
 {
 color = 4;
 glyphname = uniE0B0;
-lastChange = "2022-05-13 07:53:31 +0000";
+lastChange = "2023-07-12 10:02:20 +0000";
 layers = (
 {
 layerId = "7C079D0C-96CD-4BD8-8800-0621C7635A78";
@@ -101166,9 +101166,9 @@ paths = (
 {
 closed = 1;
 nodes = (
-"600 385 LINE",
+"600 425 LINE",
 "-1 1110 LINE",
-"-1 -340 LINE"
+"-1 -260 LINE"
 );
 }
 );
@@ -101180,9 +101180,9 @@ paths = (
 {
 closed = 1;
 nodes = (
-"600 386 LINE",
+"600 425 LINE",
 "-1 1110 LINE",
-"-1 -340 LINE"
+"-1 -260 LINE"
 );
 }
 );
@@ -101195,7 +101195,7 @@ unicode = E0B0;
 {
 color = 4;
 glyphname = uniE0B1;
-lastChange = "2022-05-13 07:53:31 +0000";
+lastChange = "2023-07-12 10:03:47 +0000";
 layers = (
 {
 layerId = "7C079D0C-96CD-4BD8-8800-0621C7635A78";
@@ -101203,12 +101203,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"600 385 LINE",
+"600 425 LINE",
 "51 1110 LINE",
 "0 1061 LINE",
-"501 385 LINE",
-"0 -291 LINE",
-"51 -340 LINE"
+"501 425 LINE",
+"0 -211 LINE",
+"51 -260 LINE"
 );
 }
 );
@@ -101220,12 +101220,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"600 385 LINE",
+"600 425 LINE",
 "51 1110 LINE",
 "0 1061 LINE",
-"501 385 LINE",
-"0 -291 LINE",
-"51 -340 LINE"
+"501 425 LINE",
+"0 -211 LINE",
+"51 -260 LINE"
 );
 }
 );
@@ -101238,7 +101238,7 @@ unicode = E0B1;
 {
 color = 4;
 glyphname = uniE0B2;
-lastChange = "2022-05-13 07:53:31 +0000";
+lastChange = "2023-07-12 10:05:00 +0000";
 layers = (
 {
 layerId = "7C079D0C-96CD-4BD8-8800-0621C7635A78";
@@ -101247,8 +101247,8 @@ paths = (
 closed = 1;
 nodes = (
 "601 1110 LINE",
-"0 385 LINE",
-"601 -340 LINE"
+"0 425 LINE",
+"601 -260 LINE"
 );
 }
 );
@@ -101261,8 +101261,8 @@ paths = (
 closed = 1;
 nodes = (
 "601 1110 LINE",
-"0 385 LINE",
-"601 -340 LINE"
+"0 425 LINE",
+"601 -260 LINE"
 );
 }
 );
@@ -101275,7 +101275,7 @@ unicode = E0B2;
 {
 color = 4;
 glyphname = uniE0B3;
-lastChange = "2022-05-13 07:53:31 +0000";
+lastChange = "2023-07-12 10:06:39 +0000";
 layers = (
 {
 layerId = "7C079D0C-96CD-4BD8-8800-0621C7635A78";
@@ -101283,12 +101283,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"600 -291 LINE",
-"99 385 LINE",
+"600 -211 LINE",
+"99 425 LINE",
 "600 1061 LINE",
 "549 1110 LINE",
-"0 385 LINE",
-"549 -340 LINE"
+"0 425 LINE",
+"549 -260 LINE"
 );
 }
 );
@@ -101300,12 +101300,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"600 -291 LINE",
-"99 385 LINE",
+"600 -211 LINE",
+"99 425 LINE",
 "600 1061 LINE",
 "549 1110 LINE",
-"0 385 LINE",
-"549 -340 LINE"
+"0 425 LINE",
+"549 -260 LINE"
 );
 }
 );
