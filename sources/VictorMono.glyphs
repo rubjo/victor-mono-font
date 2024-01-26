@@ -12,7 +12,7 @@ code = "a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove a
 name = Lowercase;
 }
 );
-copyright = "Copyright 2023 The Victor Mono Project Authors (https://github.com/rubjo/victor-mono-font)";
+copyright = "Copyright 2024 The Victor Mono Project Authors (https://github.com/rubjo/victor-mono-font)";
 customParameters = (
 {
 name = isFixedPitch;
@@ -60,7 +60,7 @@ name = licenseURL;
 value = "https://scripts.sil.org/OFL";
 }
 );
-date = "2023-07-14 09:45:26 +0000";
+date = "2024-01-26 06:54:05 +0000";
 designer = "Rune Bjørnerås";
 designerURL = "rubjo.github.io/victor-mono";
 familyName = "Victor Mono";
@@ -74,7 +74,7 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature locl;\012feature subs;\012feature sinf;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature case;\012feature calt;\012feature salt;\012feature ss01;\012feature ss02;\012feature ss03;\012feature ss04;\012feature ss05;\012feature ss06;\012feature ss07;\012";
+code = "feature locl;\012feature subs;\012feature sinf;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature case;\012feature calt;\012feature salt;\012feature ss01;\012feature ss02;\012feature ss03;\012feature ss04;\012feature ss05;\012feature ss06;\012feature ss07;\012feature ss08;\012";
 name = aalt;
 },
 {
@@ -176,6 +176,11 @@ name = ss06;
 automatic = 1;
 code = "sub six by six.ss07;\012sub nine by nine.ss07;\012";
 name = ss07;
+},
+{
+automatic = 1;
+code = "sub colon_colon_less.liga by colon_colon_less.liga.ss08;\012";
+name = ss08;
 }
 );
 fontMaster = (
@@ -46337,101 +46342,33 @@ note = colon_equal.liga;
 {
 color = 3;
 glyphname = colon_colon_less.liga;
-lastChange = "2023-07-14 09:44:56 +0000";
+lastChange = "2024-01-26 06:52:23 +0000";
 layers = (
 {
+components = (
+{
+name = colon_less.liga;
+},
+{
+name = colon;
+transform = "{1, 0, 0, 1, -1039, 99}";
+}
+);
 layerId = "291433DC-531A-45CC-B814-57D397372F12";
-paths = (
-{
-closed = 1;
-nodes = (
-"-973 2 LINE",
-"-973 725 LINE",
-"-1064 725 LINE",
-"-1064 2 LINE"
-);
+width = 600;
 },
 {
-closed = 1;
-nodes = (
-"351 60 OFFCURVE",
-"179 117 OFFCURVE",
-"-40 259 CURVE SMOOTH",
-"-239 389 OFFCURVE",
-"-485 561 OFFCURVE",
-"-973 725 CURVE",
-"-1001 645 LINE",
-"-80 326 OFFCURVE",
-"33 -30 OFFCURVE",
-"538 -19 CURVE",
-"538 65 LINE"
-);
+components = (
+{
+name = colon_less.liga;
 },
 {
-closed = 1;
-nodes = (
-"538 746 LINE",
-"33 757 OFFCURVE",
-"-80 401 OFFCURVE",
-"-1001 82 CURVE",
-"-973 2 LINE",
-"-485 166 OFFCURVE",
-"-239 338 OFFCURVE",
-"-40 468 CURVE SMOOTH",
-"179 610 OFFCURVE",
-"351 667 OFFCURVE",
-"538 663 CURVE"
-);
+name = colon;
+transform = "{1, 0, 0, 1, -1039, 99}";
 }
 );
-width = 545;
-},
-{
 layerId = "7C079D0C-96CD-4BD8-8800-0621C7635A78";
-paths = (
-{
-closed = 1;
-nodes = (
-"-995 23 LINE",
-"-995 705 LINE",
-"-1041 705 LINE",
-"-1041 23 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"318 44 OFFCURVE",
-"144 115 OFFCURVE",
-"-53 242 CURVE SMOOTH",
-"-249 370 OFFCURVE",
-"-524 544 OFFCURVE",
-"-995 705 CURVE",
-"-1010 665 LINE",
-"-100 345 OFFCURVE",
-"36 2 OFFCURVE",
-"515 2 CURVE",
-"515 44 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"515 725 LINE",
-"36 725 OFFCURVE",
-"-100 383 OFFCURVE",
-"-1010 63 CURVE",
-"-995 23 LINE",
-"-524 184 OFFCURVE",
-"-249 357 OFFCURVE",
-"-53 485 CURVE SMOOTH",
-"144 613 OFFCURVE",
-"318 684 OFFCURVE",
-"515 684 CURVE"
-);
-}
-);
-width = 545;
+width = 600;
 }
 );
 },
@@ -48075,6 +48012,107 @@ width = 545;
 }
 );
 note = underscore_underscore.liga;
+},
+{
+color = 3;
+glyphname = colon_colon_less.liga.ss08;
+lastChange = "2024-01-26 06:52:05 +0000";
+layers = (
+{
+layerId = "291433DC-531A-45CC-B814-57D397372F12";
+paths = (
+{
+closed = 1;
+nodes = (
+"-973 2 LINE",
+"-973 725 LINE",
+"-1064 725 LINE",
+"-1064 2 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"351 60 OFFCURVE",
+"179 117 OFFCURVE",
+"-40 259 CURVE SMOOTH",
+"-239 389 OFFCURVE",
+"-485 561 OFFCURVE",
+"-973 725 CURVE",
+"-1001 645 LINE",
+"-80 326 OFFCURVE",
+"33 -30 OFFCURVE",
+"538 -19 CURVE",
+"538 65 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"538 746 LINE",
+"33 757 OFFCURVE",
+"-80 401 OFFCURVE",
+"-1001 82 CURVE",
+"-973 2 LINE",
+"-485 166 OFFCURVE",
+"-239 338 OFFCURVE",
+"-40 468 CURVE SMOOTH",
+"179 610 OFFCURVE",
+"351 667 OFFCURVE",
+"538 663 CURVE"
+);
+}
+);
+width = 545;
+},
+{
+layerId = "7C079D0C-96CD-4BD8-8800-0621C7635A78";
+paths = (
+{
+closed = 1;
+nodes = (
+"-995 23 LINE",
+"-995 705 LINE",
+"-1041 705 LINE",
+"-1041 23 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"318 44 OFFCURVE",
+"144 115 OFFCURVE",
+"-53 242 CURVE SMOOTH",
+"-249 370 OFFCURVE",
+"-524 544 OFFCURVE",
+"-995 705 CURVE",
+"-1010 665 LINE",
+"-100 345 OFFCURVE",
+"36 2 OFFCURVE",
+"515 2 CURVE",
+"515 44 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"515 725 LINE",
+"36 725 OFFCURVE",
+"-100 383 OFFCURVE",
+"-1010 63 CURVE",
+"-995 23 LINE",
+"-524 184 OFFCURVE",
+"-249 357 OFFCURVE",
+"-53 485 CURVE SMOOTH",
+"144 613 OFFCURVE",
+"318 684 OFFCURVE",
+"515 684 CURVE"
+);
+}
+);
+width = 545;
+}
+);
 },
 {
 color = 4;
@@ -89591,5 +89629,5 @@ HV = 50;
 };
 };
 versionMajor = 1;
-versionMinor = 563;
+versionMinor = 564;
 }
